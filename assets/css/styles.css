@@ -46,7 +46,7 @@ body {
   font-weight: bold;
 }
 .site-menu a:hover {
-  color: #004aad;
+  color: #000000;
 }
 
 .content {
@@ -81,7 +81,7 @@ body {
   border-radius: 8px 8px 0 0;
 }
 .content .services .grid .service-item h4 {
-  color: #004aad;
+  color: #000000;
 }
 
 .site-footer {
